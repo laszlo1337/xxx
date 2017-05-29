@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SzmatApp</string>
+    <string name="facebook_application_id" translatable="false">700436383475865</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb700436383475865</string>
+
+    <!-- login activity -->
+    <string name="sign_in_cancelled">Logowanie anulowane</string>
+    <string name="no_internet_connection">Brak dostępu do Internetu</string>
+    <string name="unknown_error">Nieznany błąd</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <!-- navigation -->
+    <string name="lbl_navigation_map">Mapa</string>
+    <string name="lbl_navigation_points">Punkty</string>
+    <string name="lbl_navigation_favorites">Ulubione</string>
+
+</resources>

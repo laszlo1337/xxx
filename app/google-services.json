@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59982587574",
+    "firebase_url": "https://szmatapp.firebaseio.com",
+    "project_id": "szmatapp",
+    "storage_bucket": "szmatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59982587574:android:808a726f18a8f8a9",
+        "android_client_info": {
+          "package_name": "io.finefabric.szmatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59982587574-ggu3gjj1etsv875sjbko0rou77v960r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.finefabric.szmatapp",
+            "certificate_hash": "cd4c028fb0a1c2f6f71c9a65481a96ec4b26236e"
+          }
+        },
+        {
+          "client_id": "59982587574-mplqjm48u7mh2i5piehj3icuudrvltod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxJMfugsBfoVBCL2kP0oxnClkymRIgrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59982587574-mplqjm48u7mh2i5piehj3icuudrvltod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
